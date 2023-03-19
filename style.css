@@ -17,3 +17,19 @@
 {
      margin: 20px;
 }
+.movie_head i
+{
+     float: right;
+}
+
+.achievement_text span
+{
+     color: orange;
+}
+movie_head 
+{
+     font-size: 20px;
+     padding: 6px 22px;
+     border-radius: 10px;
+     margin-bottom: 15 px;
+}
